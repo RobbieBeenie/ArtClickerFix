@@ -1,2 +1,1 @@
-# ArtClickerFix
-A game where you click art the clown head
+A game about clicking art the clown head
